@@ -1,0 +1,986 @@
+rank,name,elo,bestWin,bestWinElo,GCs
+1,10th Street Edition / Linn-Mar High School,2437,Innovation / Johnston High School,2350,3
+2,Attaché / Clinton High School,2421,Sound System / Center Grove High School,2256,3
+3,F.C. Singers / Franklin Central High School,2369,Sound System / Center Grove High School,2476,4
+4,Innovation / Johnston High School,2343,Spectrum / Ankeny Centennial High School,2196,2
+5,Studio / Urbandale High School,2220,Innovation / Johnston High School,2342,3
+6,Royalaires / Zionsville High School,2198,Counterpoints / North Central High School,2059,3
+7,Swingers Unlimited / Marysville High School,2197,Spectrum / Ankeny Centennial High School,2138,4
+8,Eos / Waukee Northwest High School,2182,N/A,-1,0
+9,Ambassadors / Carmel High School,2157,First Edition / Findlay High School,2032,2
+10,Sound System / Center Grove High School,2150,Riverside Company / Hastings High School,2181,0
+11,Equinox / Gretna East High School,2134,N/A,-1,0
+12,FC Singers / Franklin Central High School,2133,N/A,-1,0
+13,Riverside Company / Hastings High School,2125,10th Street Edition / Linn-Mar High School,2470,4
+14,Flight / Wheaton North High School,2124,Studio / Urbandale High School,2275,4
+15,Resonance / Lincoln Southwest High School,2110,Tiger Rhythm / Broken Arrow High School,2080,2
+16,Amazing Technicolor Show Choir / Westside High School,2105,Riverside Company / Hastings High School,2215,5
+17,Sound FX / Los Alamitos High School,2085,Riverside Company / Hastings High School,2181,1
+18,Spectrum / Ankeny Centennial High School,2085,Vocalmotive / Bemidji High School,1896,2
+19,Titan Fever / Glenwood High School,2085,Studio / Urbandale High School,2275,2
+20,Visual Adrenaline / Ankeny High School,2066,Millennium / Waukee High School,2107,3
+21,Choralation / Valley High School,2062,Express / Lincoln East High School,1901,1
+22,Singers / Oak Mountain High School,2062,8th Street Singing Company / Tift County High School,1631,1
+23,Counterpoints / North Central High School,2054,Accents / Avon High School,1941,1
+24,Millennium / Waukee High School,2047,Spectrum / Ankeny Centennial High School,2244,0
+25,The Headliners / Sioux City East High School,2046,Central Singers Inc. / Davenport Central High School,2127,4
+26,Music in Motion / Solon High School,2039,Brio / Brandon High School,1941,1
+27,Soundsations / Petal High School,2039,Sound System / Center Grove High School,2256,2
+28,Titanium / Papillion-La Vista South High School,2023,Choralation / Valley High School,2090,2
+29,The Network / Homewood High School,2019,Soundsations / Petal High School,2057,3
+30,Rhythm In Gold / Bloomington Kennedy High School,2011,N/A,-1,0
+31,Choraliers / Fairfield Senior High School,2001,Ambassadors / Carmel High School,2265,4
+32,In Sync / Burbank High School,1983,Swingers Unlimited / Marysville High School,2290,1
+33,Magic / Carroll High School,1981,N/A,-1,0
+34,Hilltoppers / Onalaska High School,1965,Resonance / Lincoln Southwest High School,2093,3
+35,West in the Groove / Millard West High School,1962,Friend de Coup / Mitchell High School,1870,1
+36,Powerhouse / John Burroughs High School,1959,Fantasy / Shepherd Hill Regional High School,1773,1
+37,Varsity Singers / Auburn High School,1959,Soundsations / Petal High School,2057,2
+38,Infinity / Millard North High School,1951,West in the Groove / Millard West High School,2213,1
+39,Vocalmotive / Bemidji High School,1941,Riverside Company / Hastings High School,2215,1
+40,Red Hot / Hurricane High School,1933,The All Americans / ETC School of Musical Arts,1989,5
+41,Minstrel Magic / Carroll High School,1928,Sound System / Center Grove High School,2313,4
+42,First Edition / Findlay High School,1922,Music in Motion / Solon High School,2106,3
+43,Tiger Rhythm / Broken Arrow High School,1920,Visual Adrenaline / Ankeny High School,2152,0
+44,By Request / Loveland High School,1920,Swingers Unlimited / Marysville High School,2290,1
+45,Spotlight Singers & Company / Brownsburg High School,1914,Accents / Avon High School,1834,1
+46,Swingsations / Mt. Zion High School,1910,Amazing Technicolor Show Choir / Westside High School,2157,2
+47,Synergy / Tupelo High School,1904,N/A,-1,0
+48,Revolution / Gretna High School,1891,Blackout / Elkhorn South High School,1822,0
+49,The All Americans / ETC School of Musical Arts,1890,The Company / Piqua High School,1766,2
+50,Friends / Beavercreek High School,1886,Music in Motion / Solon High School,2156,2
+51,Visions / Grenada High School,1881,Brio / Brandon High School,1934,2
+52,UNCAGED / Hastings High School,1877,N/A,-1,0
+53,Central Singers Inc. / Davenport Central High School,1876,AcaPella / Pella High School,1841,1
+54,Accents / Carmel High School,1876,Ambassadors / Carmel High School,2265,0
+55,Momentum / Cedar Rapids Washington High School,1869,Happiness Inc. / Cedar Rapids Kennedy High School,1831,1
+56,Expressions / Buffalo Grove High School,1867,N/A,-1,0
+57,Voices of Central / Keller Central High School,1861,Tiger Rhythm / Broken Arrow High School,2010,0
+58,Excel / Elkhorn High School,1853,Tiger Rhythm / Broken Arrow High School,2080,0
+59,Royal Rhapsody / Roncalli High School,1853,N/A,-1,0
+60,The Classics / Wheaton Warrenville South High School,1852,Sound System / Center Grove High School,2256,1
+61,Spotlight / Cosby High School,1851,Knight Scene / Thomas Dale High School,1679,2
+62,Express / Lincoln East High School,1850,14 Karat Gold / Grand Island Northwest High School,1985,2
+63,Friend de Coup / Mitchell High School,1844,Tiger Rhythm / Broken Arrow High School,2010,0
+64,Music Unlimited / Waltham High School,1843,Swingsations / Mt. Zion High School,1916,0
+65,Blue Lights / Keller High School,1840,N/A,-1,0
+66,Electrum / Fishers High School,1836,Accents / Avon High School,1941,0
+67,adrENaline / Elkhorn North High School,1836,N/A,-1,0
+68,Sound Check / Waubonsie Valley High School,1829,First Edition / Lafayette Jefferson High School,1919,1
+69,Company of Singers / Totino-Grace High School,1825,Central Singers Inc. / Davenport Central High School,2002,2
+70,Premiers / Ben Davis High School,1823,Accents / Avon High School,1941,0
+71,Choraleers / Neosho High School,1822,Bella Vocé / Webb City High School,1526,1
+72,Brio / Brandon High School,1817,Imagination / West Jones High School,1928,1
+73,Spotlighters / Craig High School,1817,Central Singers Inc. / Davenport Central High School,2002,3
+74,VIBE / Daniel Hand High School,1816,Spotlight Singers & Company / Brownsburg High School,1888,2
+75,Happiness Inc. / Cedar Rapids Kennedy High School,1813,Momentum / Cedar Rapids Washington High School,1825,1
+76,Vista Ridge Rhythm / Vista Ridge High School,1811,N/A,-1,0
+77,Double Time / Excelsior Middle School,1807,N/A,-1,0
+78,NHS Singers / Noblesville High School,1807,Spotlight Singers & Company / Brownsburg High School,1891,1
+79,Touch of Class / Grove City High School,1805,The Company / Piqua High School,1806,0
+80,Grand Central Station / La Crosse Central High School,1804,Revolution / Gretna High School,2037,2
+81,The Class Act / Logan High School,1796,Hilltoppers / Onalaska High School,1996,4
+82,River City Revolution / La Crosse High Schools,1786,N/A,-1,0
+83,Imagination / West Jones High School,1786,Brio / Brandon High School,1997,0
+84,Entourage / Naperville North High School,1783,Happiness Inc. / Cedar Rapids Kennedy High School,1867,1
+85,Executive Order / John F. Kennedy High School,1780,N/A,-1,0
+86,Sound FX / Hanover High School,1771,N/A,-1,0
+87,Elite Energy / Decatur Show Choir Complex,1771,Ambassadors / Carmel High School,2374,2
+88,Emerald Elegance / Winfield High School,1764,N/A,-1,0
+89,Power Company / Waconia High School,1763,Jefferson Connection / Bloomington Jefferson High School,1701,0
+90,Express / Troy Buchanan High School,1758,Sandpipers / Chesterton High School,1781,0
+91,Executive Suite / Sioux Falls Roosevelt High School,1758,Happiness Inc. / Cedar Rapids Kennedy High School,1867,0
+92,Pointe Singers / Grosse Pointe South High School,1758,Sandpipers / Chesterton High School,1660,2
+93,Accents / Avon High School,1755,Class Royale / Homestead High School,1565,1
+94,Masquerade / Brea Olinda High School,1746,N/A,-1,0
+95,The Ambassadors / Prairie High School,1744,Music Unlimited / Waltham High School,1802,0
+96,Harmonia Mundi / Bishop Heelan Catholic School,1739,Satisfaction / Sioux Center High School,1760,0
+97,Tribe! / Keller High School,1736,Vivace / Skutt Catholic High School,1564,1
+98,Fantasy / Shepherd Hill Regional High School,1732,VIBE / Daniel Hand High School,2010,2
+99,Step on Stage / Horizon High School,1730,N/A,-1,0
+100,The Company / Piqua High School,1729,Show Cards / Colerain High School,1899,0
+101,Rhythm in Gold / Bloomington Kennedy High School,1727,Jam Session / De Pere High School,1904,1
+102,Soundwave / Carthage Senior High School,1726,Choraleers / Neosho High School,1891,2
+103,River City Rhythm / Muscatine High School,1719,Central Singers Inc. / Davenport Central High School,2127,0
+104,Encore / Jackson Academy,1718,Visions / Grenada High School,1909,1
+105,Encores / Enterprise High School,1716,Visions / Grenada High School,1960,0
+106,Heritage Singers / Franklin Community High School,1707,Brio / Brandon High School,1941,1
+107,The Ambassadors / Northwest Rankin High School,1707,N/A,-1,0
+108,New Dimensions / Clover Hill High School,1704,Friends / Beavercreek High School,1926,2
+109,Celebration Co. / Benton Community High School,1703,Rhythm in Gold / Bloomington Kennedy High School,1799,3
+110,Uncaged On StageHastings High School / undefined,1703,MomentumLincoln High School / undefined,1500,1
+111,BV Singers / Blue Valley High School,1702,N/A,-1,0
+112,Southern Accents / Lexington High School,1698,N/A,-1,0
+113,West Connection / Bellevue West High School,1698,Satisfaction / Sioux Center High School,1760,3
+114,Sound Vibrations / Hart High School,1694,N/A,-1,0
+115,South on Stage / Millard South High School,1690,Revolution / Gretna High School,2037,0
+116,Blackout / Elkhorn South High School,1689,Ultimate Image / Grand Island Senior High School,1687,0
+117,Gold / Norris High School,1688,Flight / Wichita All-City,1698,0
+118,Voices in Motion / Duke Ellington School of the Arts,1684,N/A,-1,0
+119,Sidney State of Mind / Sidney High School,1682,N/A,-1,0
+120,Flight / Wichita All-City,1682,Hillside Singers / Pleasant Hill High School,1649,1
+121,Sound Express / Carlsbad High School,1677,N/A,-1,0
+122,Rhythm / Vista Ridge High School,1676,Aspyre / Vista PEAK Preparatory,1576,1
+123,Chamber Singers / Blue Valley High School,1675,N/A,-1,0
+124,Platinum FX / Chaparral High School,1674,N/A,-1,0
+125,SpectrumPius X High School / undefined,1673,Studio SingersOmaha Northwest High School / undefined,1470,1
+126,RAMification / Southeast Polk High School,1672,Modulations / El Paso-Gridley High School,1629,2
+127,Knight Sensations / Castle High School,1668,Sound Check / Waubonsie Valley High School,1865,0
+128,Knight Scene / Thomas Dale High School,1665,Just For Show / Midlothian High School,1600,0
+129,Athenians / Gateway High School,1663,N/A,-1,0
+130,Varsity Chorale / Euclid High School,1663,N/A,-1,0
+131,Spectrum / Pius X High School,1663,Flight / Wichita All-City,1698,0
+132,Great Expectations / Twinsburg High School,1662,Sound System / Center Grove High School,2383,1
+133,14 Karat Gold / Grand Island Northwest High School,1661,N/A,-1,0
+134,Xhilaration / Xavier High School,1660,AcaPella / Pella High School,1841,0
+135,Evolution / American Leadership Academy,1660,N/A,-1,0
+136,Harmony in Motion / Douglas S. Freeman High School,1660,N/A,-1,0
+137,Varsity Singers / Huntington North High School,1658,Class Royale / Homestead High School,1573,2
+138,Jefferson Connection / Bloomington Jefferson High School,1658,4th Avenue Jazz Company / Iowa City High School,1597,1
+139,8th Street Singing Company / Tift County High School,1656,The Muses / Oak Mountain High School,1552,1
+140,Amherechos / Amherst County High School,1656,N/A,-1,0
+141,Eagle Express / Aberdeen Central High School,1653,Revolution / Gretna High School,2273,0
+142,Vintage 2019 / Neenah High School,1652,Jam Session / De Pere High School,1904,1
+143,Venus / Gateway High School,1651,N/A,-1,0
+144,Marquis / Diamond Bar High School,1649,N/A,-1,0
+145,Trojanaires / Jenks High School,1645,N/A,-1,0
+146,Classic Connection / Sioux Falls Washington High School,1645,Amplify / Underwood High School,1500,1
+147,Free Spirit / Papillion-La Vista High School,1645,14 Karat Gold / Grand Island Northwest High School,1985,0
+148,Ascension / Vista PEAK Preparatory,1644,N/A,-1,0
+149,MomentumLincoln High School / undefined,1643,Royal PrideNorfolk Senior High School / undefined,1500,0
+150,West Side Delegation / Cedar Rapids Jefferson High School,1640,4th Avenue Jazz Company / Iowa City High School,1832,1
+151,Classic Illumination / Franklin Middle School,1639,N/A,-1,0
+152,The Music Machine / Bonita Vista High School,1639,N/A,-1,0
+153,Express / Dwight D. Eisenhower High School,1639,Central Swing Inc. / Westosha Central High School,1500,0
+154,Synergy / Johnston High School,1637,N/A,-1,0
+155,AcaPella / Pella High School,1636,River City Revue / Hannibal High School,1706,0
+156,First Edition / Lafayette Jefferson High School,1635,N/A,-1,0
+157,Show Cards / Colerain High School,1635,Rouge / ETC School of Musical Arts,1548,0
+158,City Lights / Rock Bridge High School,1634,Satin 'n Lace / Rock Bridge High School,1637,1
+159,Bridge Street Singers / St. Francis High School,1634,Blackout / Elkhorn South High School,1908,1
+160,Oak Street Singers / Oak Park High School,1632,J City Riot / Jefferson City High School,1362,1
+161,Vortex / Ankeny Centennial High School,1631,N/A,-1,0
+162,Hillside Singers / Pleasant Hill High School,1629,Choraleers / Neosho High School,1891,2
+163,Singers / Webb City High School,1625,N/A,-1,0
+164,Northside Establishment / Davenport North High School,1624,Revelation / Des Moines Roosevelt High School,1504,0
+165,Resonance / Powhatan High School,1624,N/A,-1,0
+166,Modulations / El Paso-Gridley High School,1623,Express / Dwight D. Eisenhower High School,1802,0
+167,Monarch Mirage / Mt. Eden High School,1620,N/A,-1,0
+168,Eternal Rush / Ankeny Centennial High School,1616,Power Company / Waconia High School,1795,0
+169,Southwest Effect / Fort Worth Southwest High School,1616,N/A,-1,0
+170,The Legacy / Hamilton High School,1616,N/A,-1,0
+171,4th Avenue Jazz Company / Iowa City High School,1612,Momentum / Dallas Center-Grimes High School,1532,1
+172,Legacy / Sioux Falls Jefferson High School,1611,N/A,-1,0
+173,Good Times / Martinsburg High School,1609,Choraliers / Edgewood High School,1495,1
+174,Keynotes / Olentangy High School,1608,N/A,-1,0
+175,Knight Moves / Norwell High School,1607,Legacy / Lawrence North High School,1595,2
+176,Vocal Thunder / Valley Vista High School,1606,N/A,-1,0
+177,Tiffany & Company / Brea Olinda High School,1605,N/A,-1,0
+178,Starlights / Northridge High School,1605,N/A,-1,0
+179,Light Inc. / Des Moines Christian School,1605,N/A,-1,0
+180,Royal Stewarts / Glendora High School,1604,N/A,-1,0
+181,Sudden Impact / Ottumwa High School,1603,Swingspan / Fort Madison High School,1529,0
+182,Sound / Mundelein High School,1603,N/A,-1,0
+183,Sound Revolution / Norwalk High School,1603,River City Rhythm / Muscatine High School,1793,0
+184,High Impact / Matoaca High School,1602,Good Times / Martinsburg High School,1653,0
+185,Act II / Edmond Memorial High School,1602,N/A,-1,0
+186,The Oswego Commotion / Oswego High School,1600,N/A,-1,0
+187,Pure Elegance / Fairfield Senior High School,1600,Rhythm Express / Fairfield Middle School,1503,0
+188,G Major / St. George's School of Montreal,1599,N/A,-1,0
+189,Purple Harmony / Keokuk High School,1599,Sudden Impact / Ottumwa High School,1629,2
+190,Capital Swing / Manchester High School,1598,Good Times / Martinsburg High School,1653,0
+191,Rhapsody / Northwest Rankin High School,1597,Imagination / West Jones High School,1928,0
+192,High Voltage / Cypress High School,1596,N/A,-1,0
+193,Sandpipers / Chesterton High School,1595,Noteworthy / Oak Park and River Forest High School,1606,0
+194,SHOUT / Music Academy of Western New York,1592,N/A,-1,0
+195,Underground / La Cueva High School,1592,N/A,-1,0
+196,All Americans / ETC School of Musical Arts,1591,N/A,-1,0
+197,Classic Edition / McKinley Middle School,1591,N/A,-1,0
+198,New Creation / Marion High School,1591,Revelation / Marion High School,1377,0
+199,Impulse / Wahlert Catholic High School,1590,Central Singers Inc. / Davenport Central High School,1912,1
+200,Knight Stars / Norwell High School,1586,Visions / Buckeye Valley High School,1578,0
+201,Good Time Company / Iowa City West High School,1585,N/A,-1,0
+202,Royal PrideNorfolk Senior High School / undefined,1583,Jefferson EditionCouncil Bluffs Jefferson High School / undefined,1500,0
+203,Splash / Etobicoke School of the Arts,1582,N/A,-1,0
+204,Show Choir / Columbus High School,1582,N/A,-1,0
+205,Class Royale / Homestead High School,1581,Charisma / Northrop High School,1567,0
+206,Rhythm Masters / Whiteland Community High School,1580,Knight Sensations / Castle High School,1674,0
+207,Knightingales / Castle High School,1580,N/A,-1,0
+208,Vocal Pointe / Columbus North High School,1579,N/A,-1,0
+209,Central Sound / Lawrence Central High School,1579,Belles et Beaux / Plainfield High School,1754,0
+210,Forte / Aquinas High School,1577,Scarlet Knights / Bishop Neumann High School,1614,0
+211,Executive Session / Sauk Prairie High School,1576,Choraliers / Reedsburg Area High School,1499,0
+212,Sound Sensations / Grand Junction Central High School,1576,Mountain Melodies / Fruita Monument High School,1445,1
+213,General Admission / Winfield High School,1575,Heat Wave / Hurricane High School,1504,0
+214,New Dimension / Noblesville High School,1575,N/A,-1,0
+215,Uncaged / Hastings High School,1574,N/A,-1,0
+216,Legacy / Ross High School,1573,Show Cards / Colerain High School,1899,0
+217,Jazz / Auburn Junior High School,1572,N/A,-1,0
+218,Revolution / Olentangy Orange High School,1571,Show Cards / Colerain High School,1688,0
+219,Radica / Briarwood Christian School,1571,N/A,-1,0
+220,Gold Horizons / Northeast Jones Jr/Sr High School,1570,Sandpipers / Chesterton High School,1664,0
+221,InMotion / Mt. Pleasant Community High School,1569,Modulations / El Paso-Gridley High School,1629,0
+222,Aspyre / Vista PEAK Preparatory,1569,9th Street Singers / Chase County High School,1431,0
+223,Swing Cats / Millard West High School,1567,N/A,-1,0
+224,Grand Finale / Rome High School,1567,N/A,-1,0
+225,Encore Entertainment Company / Medina High School,1567,High Impact / Matoaca High School,1656,0
+226,Silver Connection / Monona Grove High School,1566,Northside Establishment / Davenport North High School,1788,0
+227,Iridescence / Clover Hill High School,1566,Legacy / Ross High School,1542,0
+228,Girls in Heels / Waubonsie Valley High School,1566,N/A,-1,0
+229,Chain Reaction / Lincoln High School,1564,N/A,-1,0
+230,Gold Vibrancy / Aquinas High School,1564,N/A,-1,0
+231,First Edition / Scranton High School,1563,N/A,-1,0
+232,Dynamix / Cheyenne Mountain High School,1560,N/A,-1,0
+233,Èlan / Auburn High School,1559,Rhapsody In Blue / Spain Park High School,1633,0
+234,Scarlet Knights / Bishop Neumann High School,1558,Royal Blues / Centennial Jr/Sr High School,1478,0
+235,Vision / New London High School,1556,N/A,-1,0
+236,Sound Etc. / Durant High School,1556,N/A,-1,0
+237,Nova / Waukee High School,1556,N/A,-1,0
+238,IntoneNation / Rouse High School,1555,Vivace / Skutt Catholic High School,1564,0
+239,Satin 'n Lace / Rock Bridge High School,1555,Sound Dimension / Joplin High School,1603,0
+240,Show Choir / Putnam City North High School,1554,N/A,-1,0
+241,Company / South Jones Jr/Sr High School,1554,Rhapsody / Northwest Rankin High School,1593,1
+242,Expressions / Whiteland Community High School,1553,N/A,-1,0
+243,Pantheon / Fossil Ridge High School,1552,N/A,-1,0
+244,Showcats / Nitro High School,1551,Sophisticats / Nitro High School,1500,2
+245,Royal Pride / Norfolk Senior High School,1550,N/A,-1,0
+246,Royal Harmony / North Royalton High School,1549,N/A,-1,0
+247,Vivace / Skutt Catholic High School,1549,Satisfaction / Sioux Center High School,1760,1
+248,Satisfaction / Sioux Center High School,1549,Crimson & Black / LeMars Community High School,1432,0
+249,Ovation! / O'Gorman High School,1549,14 Karat Gold / Grand Island Northwest High School,1985,0
+250,Encore / Pacifica High School,1547,N/A,-1,0
+251,Ensemble / Burke High School,1546,N/A,-1,0
+252,KHS Pops / Kearney High School,1546,Corporation / Lewis Central High School,1398,0
+253,Main Attraction / Chula Vista High School,1546,N/A,-1,0
+254,Backstage Broncos / Mustang High School,1545,N/A,-1,0
+255,Soundsational Singers / Nevada High School,1545,Choraleers / Neosho High School,1999,3
+256,Uptown Girls / Millard West High School,1543,Eagle Express / Aberdeen Central High School,1745,0
+257,Choralaires / Zionsville High School,1543,N/A,-1,0
+258,Images / Morgantown High School,1542,N/A,-1,0
+259,Aerodynamix / Timber Creek High School,1540,N/A,-1,0
+260,Ladies Choice / Tift County High School,1539,N/A,-1,0
+261,Choralation / Milton High School,1537,Jam Session / De Pere High School,1645,1
+262,Encore / Cole Camp High School,1536,N/A,-1,0
+263,Signature / Sylacauga High School,1535,The Muses / Oak Mountain High School,1552,0
+264,Choraliers / Arlington High School,1535,New Image / Hudson High School,1500,1
+265,Sound Impressions / Lowell High School,1535,Panache / Oliver Ames High School,1837,0
+266,Uptown / Millard West High School,1534,N/A,-1,0
+267,Gleam / Milton Community Group,1533,N/A,-1,0
+268,Crescendo / Beaconsfield High School,1533,N/A,-1,0
+269,Vocal Fusion / Richmond Hill High School,1533,N/A,-1,0
+270,Collective Harts / Hart High School,1533,N/A,-1,0
+271,Show Choir / Centre Stage Theatre School,1532,N/A,-1,0
+272,Ultimate Image / Grand Island Senior High School,1529,Uncaged On Stage / Hastings High School,1438,1
+273,Sound Waves / John Burroughs High School,1528,N/A,-1,0
+274,Blue Impressions / Burbank High School,1528,N/A,-1,0
+275,Soundwave / Peoria Area Performing Arts Studio,1528,Swingspan / Fort Madison High School,1529,0
+276,Spirit / Waukee High School,1528,N/A,-1,0
+277,Dracarys / Round Rock High School,1527,N/A,-1,0
+278,Pendletones / Pendleton Heights High School,1526,N/A,-1,0
+279,Vintage 2018 / Neenah High School,1526,N/A,-1,0
+280,Attraction / Avon High School,1526,N/A,-1,0
+281,Shockwave / Elkhorn South High School,1525,N/A,-1,0
+282,Broadway Bound / Boulder Creek High School,1525,N/A,-1,0
+283,Studio Singers / Omaha Northwest High School,1525,N/A,-1,0
+284,Synergy / Unionville High School,1524,N/A,-1,0
+285,Spectrum / Musselman Middle School,1523,N/A,-1,0
+286,Vocal Eclipse / Central City High School,1522,N/A,-1,0
+287,Classix / St. Albans High School,1521,N/A,-1,0
+288,OnStage / John Hersey High School,1520,Noteworthy / Oak Park and River Forest High School,1606,1
+289,Ignition / Valley High School,1519,N/A,-1,0
+290,Show Choir / Music Academy of Western New York,1518,N/A,-1,0
+291,Flash / Milton Community Group,1518,N/A,-1,0
+292,Harmonia / Island Community Group,1518,N/A,-1,0
+293,Side One / Indianola High School,1518,N/A,-1,0
+294,Fusion / Fairfield Jr/Sr High School,1517,The All Americans / ETC School of Musical Arts,1959,1
+295,Tonality / Island Community Group,1516,N/A,-1,0
+296,Illumination / Pearl River Central High School,1515,Central Attraction / Pearl River Central High School,1569,1
+297,Ladies First / John Hersey High School,1515,Noteworthy / Oak Park and River Forest High School,1606,0
+298,Reveillon / Jackson Preparatory School,1514,N/A,-1,0
+299,Legacy / Donelson Christian Academy,1514,N/A,-1,0
+300,Encore Singers / Jay M. Robinson Middle School,1512,N/A,-1,0
+301,Esprit / Wheaton Warrenville South High School,1511,Modulations / El Paso-Gridley High School,1746,0
+302,Rhythm of the Knight / Uniondale High School,1511,Executive Session / Sauk Prairie High School,1585,1
+303,HLX / Helix High School,1511,N/A,-1,0
+304,Panache / Oliver Ames High School,1510,N/A,-1,0
+305,In Step / Linn-Mar High School,1510,N/A,-1,0
+306,Visions / Buckeye Valley High School,1509,Good Times / Martinsburg High School,1611,2
+307,Impressions / Burbank High School,1509,N/A,-1,0
+308,Belles et Beaux / Plainfield High School,1509,N/A,-1,0
+309,Bull City Lights / Voyager Academy,1507,N/A,-1,0
+310,Show Choir / Mitchell High School,1507,N/A,-1,0
+311,Aurora / Waukee Northwest High School,1507,N/A,-1,0
+312,Howlin' Huskies / William A. Hough High School,1507,N/A,-1,0
+313,Show Choir / Mt. Desert Island High School,1506,N/A,-1,0
+314,Executive OrderJohn F. Kennedy High School / undefined,1506,N/A,-1,0
+315,Falcon Legacy / Falcon High School,1506,N/A,-1,0
+316,9th Street Singers / Chase County High School,1506,Scarlet Knights / Bishop Neumann High School,1614,1
+317,Central Attraction / Pearl River Central High School,1505,Sandpipers / Chesterton High School,1664,0
+318,Sound SensationsGrand Junction Central High School / undefined,1505,N/A,-1,0
+319,Swingers Select / Marysville High School,1505,N/A,-1,0
+320,Pizzazz / Parkway Central High School,1504,N/A,-1,0
+321,Jam Session / De Pere High School,1504,N/A,-1,0
+322,FAME / FAME School of Performing Arts,1503,N/A,-1,0
+323,Northern Lights / North Torrance High School,1503,N/A,-1,0
+324,Rhapsody In Blue / Spain Park High School,1502,N/A,-1,0
+325,Show Choir / Oxford Academy,1501,N/A,-1,0
+326,Melodies of Gold / Golden Valley High School,1501,N/A,-1,0
+327,South Spirit / Martinsburg South Middle School,1501,N/A,-1,0
+328,Showstoppers / Triton High School,1501,N/A,-1,0
+329,Harmony In Motion / West Brunswick High School,1501,N/A,-1,0
+330,Show Choir / Northeast Guilford High School,1501,N/A,-1,0
+331,Sound Express / Platte County High School,1501,N/A,-1,0
+332,Choral Spectrum / South Windsor High School,1501,VIBE / Daniel Hand High School,2010,0
+333,Rhapsody / Rangeview High School,1500,N/A,-1,0
+334,Chromatics / Rangeview High School,1500,N/A,-1,0
+335,PowerhouseJohn Burroughs High School / undefined,1500,N/A,-1,0
+336,In SyncBurbank High School / undefined,1500,N/A,-1,0
+337,MasqueradeBrea Olinda High School / undefined,1500,N/A,-1,0
+338,Voices Unlimited / Hampden Academy,1500,N/A,-1,0
+339,Showformance / Lake Norman High School,1500,N/A,-1,0
+340,Show Choir / Atkins Academic & Technology High School,1500,N/A,-1,0
+341,Hornet Harmony / Hillside High School,1500,N/A,-1,0
+342,Perfect Intentions / Overhills High School,1500,N/A,-1,0
+343,Show Choir / Brunswick Early College High School,1500,N/A,-1,0
+344,Doo-WAHS / Western Alamance High School,1500,N/A,-1,0
+345,Royal StewartsGlendora High School / undefined,1500,N/A,-1,0
+346,MarquisDiamond Bar High School / undefined,1500,N/A,-1,0
+347,Class Act / Oak Mountain Middle School,1500,N/A,-1,0
+348,Platinum FXChaparral High School / undefined,1500,N/A,-1,0
+349,UpBeat! / Walter Reed Middle School,1500,N/A,-1,0
+350,Imaginations / John Muir Middle School,1500,N/A,-1,0
+351,Encore! / Travis Ranch Middle School,1500,N/A,-1,0
+352,New Beginnings / Harris Road Middle School,1500,N/A,-1,0
+353,Show Choir / Seventy-First Classical Middle School,1500,N/A,-1,0
+354,Show Choir / Hanes Magnet School,1500,N/A,-1,0
+355,Show Choir / Mt. Airy Middle School,1500,N/A,-1,0
+356,Raider Show Choir / Randolph Middle School,1500,N/A,-1,0
+357,EncorePacifica High School / undefined,1500,N/A,-1,0
+358,High VoltageCypress High School / undefined,1500,N/A,-1,0
+359,InfusionJohn A. Rowland High School / undefined,1500,N/A,-1,0
+360,Velocity / Waukee Trailridge School,1500,N/A,-1,0
+361,Sound VibrationsHart High School / undefined,1500,N/A,-1,0
+362,G-NotesGranada Hills Charter High School / undefined,1500,N/A,-1,0
+363,Singers / Sidney High School,1500,N/A,-1,0
+364,ENcore / Elkhorn North High School,1500,N/A,-1,0
+365,Sound FX / Mundelein High School,1498,N/A,-1,0
+366,Bel Canto Bulldogs / Doddridge County High School,1497,N/A,-1,0
+367,Finale / Edmond Santa Fe High School,1497,N/A,-1,0
+368,You've Got Male / Mt. Zion High School,1496,N/A,-1,0
+369,Titan Radiance / Papillion-La Vista South High School,1495,N/A,-1,0
+370,Jetsetters / Alliance High School,1495,N/A,-1,0
+371,Chorale / Gahanna Lincoln High School,1495,N/A,-1,0
+372,Rhapsody in Blue / Spain Park High School,1495,N/A,-1,0
+373,Mountain MelodiesFruita Monument High School / undefined,1495,N/A,-1,0
+374,Sound Dimension / Joplin High School,1494,Soundwave / Carthage Senior High School,1716,0
+375,Intensity / Millard North High School,1493,N/A,-1,0
+376,Momentum / Marian High School,1493,N/A,-1,0
+377,Gold Dust / Holdrege High School,1492,N/A,-1,0
+378,Harmonics / Alliance High School,1492,N/A,-1,0
+379,Soundsations / Texas City High School,1492,Vivace / Skutt Catholic High School,1564,0
+380,HighLeit / DeKalb School of the Arts,1491,N/A,-1,0
+381,Ovation / Oak Ridge Middle School,1490,N/A,-1,0
+382,Vintage 2016 / Neenah High School,1490,N/A,-1,0
+383,Vivant / Naperville North High School,1489,N/A,-1,0
+384,Amplify / Underwood High School,1488,Piraticals / Leola High School,1500,0
+385,Reveille / Madison Central High School,1487,N/A,-1,0
+386,New Edition / Carmel High School,1486,Delegation / Danville High School,1482,0
+387,Chromatics / Thomas Wootton High School,1485,N/A,-1,0
+388,Surround Sound / Center Grove High School,1485,N/A,-1,0
+389,Vitality / Urbandale High School,1485,N/A,-1,0
+390,Center Stage / Marquette High School,1484,N/A,-1,0
+391,Neo Classic / Harding Middle School,1483,N/A,-1,0
+392,City Lights / Midlothian High School,1483,N/A,-1,0
+393,Serenade / Edmond Santa Fe High School,1482,N/A,-1,0
+394,The Ambassadors / Omaha South High School,1482,N/A,-1,0
+395,Vocal Infusion / Anderson High School,1482,Class Royale / Homestead High School,1632,1
+396,Center Stage / Cassville High School,1482,NBA (No Boys Allowed) / Cassville High School,1500,0
+397,Neptune's Angels / Columbus High School,1481,N/A,-1,0
+398,Dynamix / Lincoln Northeast High School,1481,N/A,-1,0
+399,Baker's Dozen / Columbus High School,1481,N/A,-1,0
+400,New World Singers / Columbus High School,1481,N/A,-1,0
+401,Capital Sounds / McGavock High School,1480,Harding Singers / Marion Harding High School,1488,0
+402,The Muses / Oak Mountain High School,1479,N/A,-1,0
+403,Surround Sound / Bettendorf High School,1479,Express / Dwight D. Eisenhower High School,1747,0
+404,The Bell System / L.D. Bell High School,1478,N/A,-1,0
+405,Dynamic Edition / Hastings High School,1478,N/A,-1,0
+406,Savage Sound FX / Savannah High School,1477,N/A,-1,0
+407,Perpetual Motion / Ankeny High School,1477,N/A,-1,0
+408,Music Factory / Spirit Lake High School,1476,Swingsations / Carroll High School,1444,0
+409,Rhythmaires / Indian Creek High School,1476,N/A,-1,0
+410,Thunderstruck / Edmond Heartland Middle School,1475,N/A,-1,0
+411,Paradigm / Hoover High School,1475,N/A,-1,0
+412,South Singers / Grosse Pointe South High School,1475,N/A,-1,0
+413,Illumination / Millard North High School,1474,N/A,-1,0
+414,Midwest Express / Holmen High School,1474,Jam Session / De Pere High School,1645,0
+415,Out Of The Blue / Chelsea High School,1473,Central Attraction / Pearl River Central High School,1569,0
+416,Just For Show / Midlothian High School,1472,N/A,-1,0
+417,Swingin' Saints / St. Thomas Aquinas High School,1472,Battalion / Battle High School,1415,0
+418,ENCORE! / Tantasqua Regional High School,1472,Fantasy / Shepherd Hill Regional High School,1773,0
+419,Ambassadors / Clinton Junior High School,1471,N/A,-1,0
+420,Music Express / Waltham High School,1471,N/A,-1,0
+421,Musicale / McNeil High School,1471,N/A,-1,0
+422,Valley Voices / Grain Valley High School,1470,N/A,-1,0
+423,Show Choir / Seaman High School,1470,N/A,-1,0
+424,Showtime / Edmond Sequoyah Middle School,1469,N/A,-1,0
+425,Act 1 / Edmond Central Middle School,1469,N/A,-1,0
+426,Dimensions / Dowling Catholic High School,1469,Swingsations / Carroll High School,1444,1
+427,Center Stage / Milton-Union High School,1468,Visual Volume / Poca High School,1397,0
+428,Center Stage / Oak Grove High School,1468,N/A,-1,0
+429,Electric Blue / Quincy Senior High School,1468,N/A,-1,0
+430,Revelation / Des Moines Roosevelt High School,1467,4th Avenue Jazz Company / Iowa City High School,1597,0
+431,Femmes Fatales / Plainfield High School,1467,Belles et Beaux / Plainfield High School,1549,0
+432,Men at Work / Auburn High School,1466,N/A,-1,0
+433,Leading Ladies / Rolling Meadows High School,1466,N/A,-1,0
+434,Rise of Adrenaline / Sparta High School,1465,N/A,-1,0
+435,Bella Voce / Johnston High School,1465,N/A,-1,0
+436,Vintage 2017 / Neenah High School,1464,N/A,-1,0
+437,Harmony / Green Ridge High School,1464,N/A,-1,0
+438,Allure / Loveland High School,1463,N/A,-1,0
+439,Rhapsody / McNeil High School,1463,N/A,-1,0
+440,Crimson Heat / New Palestine High School,1462,Innovation / New Prairie High School,1347,1
+441,Aviation / Lincoln Northwest High School,1462,N/A,-1,0
+442,Voices In Perfection / Capital High School,1461,Visions / Buckeye Valley High School,1578,0
+443,Lights / Mundelein High School,1461,N/A,-1,0
+444,Heat Wave / Hurricane High School,1461,High Impact / Herbert Hoover High School,1487,0
+445,Premiere / Mt. Zion High School,1460,N/A,-1,0
+446,Sound Advice / Johnston Middle School,1460,N/A,-1,0
+447,Harmony Gold / Walsh Jesuit High School,1459,Patriot Edition / Jay County High School,1519,0
+448,Tiger Pizazz / Lawrenceburg High School,1459,N/A,-1,0
+449,Jubilaires / Beech Grove High School,1458,N/A,-1,0
+450,Panache / Southmont Jr/Sr High School,1458,N/A,-1,0
+451,FortissiBROS / Fairfield Senior High School,1458,Rhythm Express / Fairfield Middle School,1503,0
+452,Harbor Lights / Kecoughtan High School,1458,N/A,-1,0
+453,Limited Edition / Tomah High School,1457,Momentum / Plymouth High School,1367,0
+454,The Swarm / Perrysburg High School,1457,N/A,-1,0
+455,Music Makers / Harrisonville High School,1457,Satin 'n Lace / Rock Bridge High School,1637,0
+456,Tempest / Valley Vista High School,1456,N/A,-1,0
+457,Bellas / Brandon High School,1456,N/A,-1,0
+458,Rebelaires / Westwood Jr/Sr High School,1455,Hillside Singers / Pleasant Hill High School,1649,0
+459,Evolution / Gretna High School,1455,N/A,-1,0
+460,AireMen / Jenks High School,1454,N/A,-1,0
+461,Vivacé / Coppell High School,1454,N/A,-1,0
+462,New Image / Hudson High School,1454,Select Women / Vandegrift High School,1500,0
+463,Chamber Choir / Hoover High School,1452,N/A,-1,0
+464,Countesses & NoblemenLincoln Southeast High School / undefined,1452,N/A,-1,0
+465,Show ChoirSeaman High School / undefined,1452,N/A,-1,0
+466,Fortissimo / Frankfort High School,1451,N/A,-1,0
+467,Innovations / Princeton Community High School,1451,N/A,-1,0
+468,Star Struck / Bedford-North Lawrence High School,1451,N/A,-1,0
+469,Les Femmes / Mt. Zion High School,1451,N/A,-1,0
+470,Simply Irresistible / Westside High School,1451,N/A,-1,0
+471,Encore / Madison East High School,1451,N/A,-1,0
+472,Charisma / Northrop High School,1451,Harmony Gold / Walsh Jesuit High School,1387,0
+473,Sweet Revelation / Grand Island Senior High School,1450,N/A,-1,0
+474,Eclipse / Harrisburg High School,1450,N/A,-1,0
+475,Encore / Jasper High School,1450,Elite / Boaz High School,1341,0
+476,Cardinal & Black Singers / Harvard High School,1449,N/A,-1,0
+477,Pulse / Forest City High School,1448,N/A,-1,0
+478,18th Street Singers / Ord Jr/Sr High School,1447,N/A,-1,0
+479,Infinity / Des Moines Lincoln High School,1446,River City Revue / Hannibal High School,1585,0
+480,Express / Onalaska High School,1446,Jive / Bloomington Jefferson High School,1359,0
+481,Delegation / Danville High School,1446,Opening Knight / South Dearborn High School,1497,0
+482,Northern Lights / North St. Paul High School,1444,Upstage Adrenaline / Sparta High School,1509,0
+483,Visual Harmonics / Woodbine Community School,1443,Allegro / Skutt Catholic High School,1500,0
+484,Vocal Motion / Strike It Up Artistic Center,1443,N/A,-1,0
+485,Divaz / Hastings High School,1443,N/A,-1,0
+486,Singers / Vestavia Hills High School,1442,N/A,-1,0
+487,Faces / Crete-Monee High School,1442,N/A,-1,0
+488,This Just In! / Davenport West High School,1442,N/A,-1,0
+489,The Chanticleers / Shaker Heights High School,1442,N/A,-1,0
+490,Momentum / Aspire Music Academy,1441,N/A,-1,0
+491,Syndicated Sound / Tarpon Springs High School,1441,N/A,-1,0
+492,Choraliers / Reedsburg Area High School,1440,Limited Edition / Tomah High School,1456,0
+493,Treblemakers / Mercy High School,1440,N/A,-1,0
+494,Vintage 2015 / Neenah High School,1440,N/A,-1,0
+495,Soundsations / Learning Foundation Performing Arts Charter School,1440,N/A,-1,0
+496,Connections / Lincoln High School,1440,N/A,-1,0
+497,Ridgetop Revolution / Cashton Middle/High School,1440,N/A,-1,0
+498,Eagle Show Choir / Flat Rock Middle School,1440,N/A,-1,0
+499,Powerhouse / Scottsbluff High School,1440,N/A,-1,0
+500,Intensity / Ankeny High School,1439,N/A,-1,0
+501,Esprit / Enterprise High School,1439,N/A,-1,0
+502,Expressions / Portsmouth High School,1438,N/A,-1,0
+503,New Era / West Marion Jr/Sr High School,1438,N/A,-1,0
+504,Center Stage / Davenport North High School,1438,N/A,-1,0
+505,Prestige / Hamilton High School,1438,N/A,-1,0
+506,Rouge / ETC School of Musical Arts,1438,N/A,-1,0
+507,Emerald & Gold / Wilber-Clatonia Jr/Sr High School,1437,N/A,-1,0
+508,Singers Jr. / Sullivan Middle School,1437,N/A,-1,0
+509,Harding Singers / Marion Harding High School,1437,Harmony Gold / Walsh Jesuit High School,1409,0
+510,Shock Wave / Elkhorn South High School,1437,N/A,-1,0
+511,Premiers / Columbia Academy,1437,N/A,-1,0
+512,Cabaret / Smith-Cotton High School,1436,N/A,-1,0
+513,Unmuteables / MacArthur High School,1436,N/A,-1,0
+514,Tiger Tonality / Guymon High School,1436,N/A,-1,0
+515,Voltage / Keller Central High School,1436,New Image / Hudson High School,1500,0
+516,Glitter & Gold / Scranton High School,1435,N/A,-1,0
+517,Vintage / Neenah High School,1435,N/A,-1,0
+518,Sensations / Franklin Community High School,1434,N/A,-1,0
+519,Bella Vocé / Webb City High School,1434,N/A,-1,0
+520,Shades of Blue / Burleson Centennial High School,1434,N/A,-1,0
+521,Summit Sound / Bishop Dwenger High School,1434,Patriot Edition / Jay County High School,1519,0
+522,Unleashed / Arkansas City High School,1432,N/A,-1,0
+523,Heart and Soul / Papillion-La Vista High School,1432,N/A,-1,0
+524,Da North Boyz / Davenport North High School,1431,N/A,-1,0
+525,Music Express / Garfield Heights High School,1431,Choraliers / Edgewood High School,1495,0
+526,Upstage Adrenaline / Sparta High School,1431,N/A,-1,0
+527,Singspirations / St. Agnes Catholic School,1429,N/A,-1,0
+528,Flip Side / Indianola High School,1429,N/A,-1,0
+529,Stage Lights / Sioux Falls Washington High School,1428,Amplify / Underwood High School,1500,0
+530,Countesses & Noblemen / Lincoln Southeast High School,1428,N/A,-1,0
+531,Mixed Company / Prospect High School,1427,Northernaires / Eau Claire North High School,1485,0
+532,Sounds / Ben Davis High School,1427,N/A,-1,0
+533,Rhapsody In Blue / Hamilton High School,1427,Soaring Sensations / Urbana High School,1500,1
+534,Revelation / Bloomington Expressive Arts Training (BEAT),1426,N/A,-1,0
+535,Tiger Mystique / Broken Arrow High School,1425,N/A,-1,0
+536,Harmony / Hershey High School,1425,N/A,-1,0
+537,New Generation / Wood River Rural High School,1425,N/A,-1,0
+538,Mountain Melodies / Fruita Monument High School,1424,N/A,-1,0
+539,Power Surge / Elkhorn South High School,1424,N/A,-1,0
+540,Entourage / Sioux City East High School,1424,N/A,-1,0
+541,Select Blend / Blue Valley High School,1424,N/A,-1,0
+542,Mini Swingers / Bunsold Middle School,1424,N/A,-1,0
+543,High Society / Jonathan Alder High School,1424,N/A,-1,0
+544,Red Hot Blues / New Castle High School,1423,N/A,-1,0
+545,Sound Collage / El Dorado Springs High School,1423,N/A,-1,0
+546,The SLC / Carroll Senior High School,1422,N/A,-1,0
+547,High Voltage / Franklin Central High School,1422,N/A,-1,0
+548,The Legacy / Homewood High School,1421,N/A,-1,0
+549,Viking Show Choir / Seaman High School,1421,N/A,-1,0
+550,Prestige / Sioux City East High School,1420,N/A,-1,0
+551,Show Divas / Horizon High School,1420,N/A,-1,0
+552,Inferno / Fuse Performing Arts Center,1420,N/A,-1,0
+553,Swingspan / Fort Madison High School,1420,N/A,-1,0
+554,Encores / Pike High School,1419,Rhythm Masters / Whiteland Community High School,1624,0
+555,Back To Bass-ics / Andover High School,1419,N/A,-1,0
+556,CHS Glee Club / Cathedral High School,1419,N/A,-1,0
+557,Singers / Batesville High School,1419,N/A,-1,0
+558,Knight Sounds / Lincoln Southeast High School,1419,N/A,-1,0
+559,Evolution / Poquoson High School,1419,N/A,-1,0
+560,Soundwave / Troy Buchanan High School,1418,N/A,-1,0
+561,Up Front / Matoaca High School,1418,N/A,-1,0
+562,Fast Lane / Glenwood Community High School,1418,N/A,-1,0
+563,Encore! / Georgetown High School,1417,N/A,-1,0
+564,Glee / East View High School,1417,N/A,-1,0
+565,Falcon Pizzazz / Timber Creek High School,1417,N/A,-1,0
+566,T-C Sensations / Tri-Center High School,1417,Allegro / Skutt Catholic High School,1500,0
+567,Synergy / Clover Hill High School,1417,N/A,-1,0
+568,Exclamation! / Grain Valley High School,1416,N/A,-1,0
+569,Northernaires / Eau Claire North High School,1416,Upstage Adrenaline / Sparta High School,1509,0
+570,Vocal Motion / Bradley Central High School,1416,N/A,-1,0
+571,Rhythm Express / Fairfield Middle School,1415,N/A,-1,0
+572,Lumina / Keller High School,1414,N/A,-1,0
+573,Sound Machine / Fort Worth Southwest High School,1414,N/A,-1,0
+574,Divas / Tallassee High School,1414,N/A,-1,0
+575,Runway / Ralston High School,1414,N/A,-1,0
+576,Golden Blues / Tri County Jr/Sr High School,1414,N/A,-1,0
+577,City Lights / Hollister High School,1414,Bella Vocé / Webb City High School,1526,0
+578,Reflections / Duncan High School,1413,N/A,-1,0
+579,Silver Streak / Fishers High School,1413,N/A,-1,0
+580,River City Revue / Hannibal High School,1413,N/A,-1,0
+581,5th Avenue / Western Dubuque High School,1413,Sudden Impact / Ottumwa High School,1655,1
+582,CN CeNsation / Central Noble Jr/Sr High School,1412,N/A,-1,0
+583,Northern Lights / Edmond North High School,1412,N/A,-1,0
+584,Spotlight / Prattville High School,1412,N/A,-1,0
+585,moMANtum / Bishop Heelan Catholic School,1412,N/A,-1,0
+586,PhenoMENon / Neosho High School,1411,N/A,-1,0
+587,Revelation / Marion High School,1411,Scarlet Singers / Des Moines East High School,1365,0
+588,Pop Vox / Everett High School,1410,N/A,-1,0
+589,Nothin' But Treble / Andover High School,1410,N/A,-1,0
+590,Vocal Motion / Windsor Locks High School,1410,N/A,-1,0
+591,Ignite / Mazzuchelli Catholic Middle School,1410,N/A,-1,0
+592,Stellar FX / Shadow Ridge High School,1410,N/A,-1,0
+593,Vocal Motion / Mt. Vernon High School,1410,NBA (No Boys Allowed) / Cassville High School,1500,0
+594,Expressions / Fairfield Jr/Sr High School,1410,N/A,-1,0
+595,Royalty / Wahoo High School,1410,Uncaged On Stage / Hastings High School,1438,0
+596,Class Act / Grove City High School,1409,N/A,-1,0
+597,Opening Knight / South Dearborn High School,1409,Top Twenty / Kenton High School,1267,0
+598,Vox / Paschal High School,1408,N/A,-1,0
+599,Titanaires / Norris High School,1408,N/A,-1,0
+600,City Lights / Iowa City High School,1408,N/A,-1,0
+601,Connection / Florence High School,1407,N/A,-1,0
+602,The Shamrocks / Notre Dame High School,1407,N/A,-1,0
+603,Debut / Mills E. Godwin High School,1407,N/A,-1,0
+604,Tiger Momentum / Broken Arrow Freshman Academy,1407,N/A,-1,0
+605,Knight Lights / Northwest High School,1407,N/A,-1,0
+606,Studio SingersOmaha Northwest High School / undefined,1406,N/A,-1,0
+607,Music Warehouse / Edgewood High School,1405,Vocal Elegance / Anderson High School,1500,0
+608,Adrenaline / Taft Middle School,1405,N/A,-1,0
+609,Kinetic Fusion / North Union High School,1405,N/A,-1,0
+610,68th Street Singers / Norris High School,1405,N/A,-1,0
+611,Jazz Girls / Montgomery High School,1405,N/A,-1,0
+612,Renaissance / Cleveland High School,1405,N/A,-1,0
+613,Noteworthy / Oak Park and River Forest High School,1405,N/A,-1,0
+614,Rhythm in Blue / Enid High School,1405,N/A,-1,0
+615,Illusion / Shepherd Hill Regional High School,1404,N/A,-1,0
+616,Central Swing Inc. / Westosha Central High School,1404,N/A,-1,0
+617,Impact / Wahlert Catholic High School,1403,N/A,-1,0
+618,Jefferson EditionCouncil Bluffs Jefferson High School / undefined,1403,N/A,-1,0
+619,ShowstoppersNorfolk Senior High School / undefined,1403,N/A,-1,0
+620,Neptune's AngelsColumbus High School / undefined,1403,N/A,-1,0
+621,GleeCVI / Guelph Collegiate Vocational Institute,1403,N/A,-1,0
+622,Momentum / Estherville Lincoln Central High School,1403,N/A,-1,0
+623,Premiere / Atlantic High School,1402,N/A,-1,0
+624,Soundsation / Riverdale High School,1402,N/A,-1,0
+625,Mac Melody / Mother McAuley Liberal Arts High School,1402,N/A,-1,0
+626,Rave Revue / Ravenswood High School,1402,Sophisticats / Nitro High School,1500,0
+627,Limited Edition / Beatrice High School,1402,N/A,-1,0
+628,Tiger Tones / Harrisburg High School,1401,N/A,-1,0
+629,Crimson & Black / LeMars Community High School,1401,Unleashed / Sergeant Bluff-Luton High School,1500,0
+630,Sound Explosion / Platte County High School,1401,N/A,-1,0
+631,Heartbreakers / Sidney High School,1401,N/A,-1,0
+632,Symphonic Fusion / New Haven High School,1400,N/A,-1,0
+633,The Treblemakers / Mercy High School,1400,N/A,-1,0
+634,Royal Blues / Centennial Jr/Sr High School,1400,N/A,-1,0
+635,Union Station / Union High School,1399,N/A,-1,0
+636,Northern Lights / Don Mills Collegiate Institute,1399,N/A,-1,0
+637,Tiftosterone / Tift County High School,1399,N/A,-1,0
+638,Tomcats / Nitro High School,1399,N/A,-1,0
+639,Emergence / Lincoln Southwest High School,1399,N/A,-1,0
+640,Suite Sounds / Carthage Senior High School,1399,N/A,-1,0
+641,Pop Singers / Jefferson High School,1398,N/A,-1,0
+642,Aviatrix / Alliance High School,1398,N/A,-1,0
+643,Piraticals / Leola High School,1398,N/A,-1,0
+644,Synergy / Burke High School,1398,N/A,-1,0
+645,A Touch Of Class / Villa Duchesne and Oak Hill School,1397,N/A,-1,0
+646,Platinum / Platteview High School,1397,N/A,-1,0
+647,WD Forté / West Delaware High School,1397,N/A,-1,0
+648,New Edition / South Jones Jr/Sr High School,1397,N/A,-1,0
+649,Touch of Class / Joplin High School,1397,Suite Sounds / Carthage Senior High School,1493,0
+650,NBA (No Boys Allowed) / Cassville High School,1397,N/A,-1,0
+651,High Voltage / Emmetsburg High School,1397,N/A,-1,0
+652,Homegrown Harmonies / Dundy County Stratton Jr/Sr High School,1396,N/A,-1,0
+653,Infinity / Kimball Jr/Sr High School,1396,N/A,-1,0
+654,Scarlet Harmony / Springfield High School,1396,N/A,-1,0
+655,Charisma / Iowa City High School,1396,N/A,-1,0
+656,CenterStage! / Albertville High School,1396,N/A,-1,0
+657,Ambassadors / Atlantic High School,1396,N/A,-1,0
+658,Phoenix Blue / Ripley High School,1396,N/A,-1,0
+659,UNTAMED / Hastings High School,1396,N/A,-1,0
+660,Testostertones / Lexington High School,1395,N/A,-1,0
+661,Music Unlimited / Whitehall-Yearling High School,1395,N/A,-1,0
+662,Amplitude / Bloomington Expressive Arts Training (BEAT),1395,N/A,-1,0
+663,Choralaires / Scottsbluff High School,1395,N/A,-1,0
+664,Elegance / Bishop Dwenger High School,1395,N/A,-1,0
+665,Accent / Atchison High School,1394,N/A,-1,0
+666,New World SingersColumbus High School / undefined,1394,N/A,-1,0
+667,Select Women / Vandegrift High School,1394,N/A,-1,0
+668,The Current / Waconia High School,1394,N/A,-1,0
+669,Radiance / Oak Grove High School,1394,N/A,-1,0
+670,Gold Dynamics / Seward High School,1393,N/A,-1,0
+671,Soundwave / Warrensburg High School,1393,N/A,-1,0
+672,Elegance / Lincoln East High School,1393,N/A,-1,0
+673,Gael Force / St. Edmond Jr/Sr High School,1393,N/A,-1,0
+674,Showstoppers / Pocahontas Area High School,1393,N/A,-1,0
+675,Monarchy / Papillion-La Vista High School,1393,N/A,-1,0
+676,Tribal Clefs / Irwin County High School,1393,N/A,-1,0
+677,Revolution / West Jones High School,1393,N/A,-1,0
+678,Blue Harmony / Hollister High School,1393,N/A,-1,0
+679,Rhapsody / Cosby High School,1392,N/A,-1,0
+680,High Frequency / Whitman Hanson Regional High School,1392,N/A,-1,0
+681,Adrenaline / South Hadley High School,1392,N/A,-1,0
+682,DoMENance / Webb City High School,1392,N/A,-1,0
+683,Vocal Loco-Motion / Van Meter Jr/Sr High School,1391,N/A,-1,0
+684,Madz / Mechanicsville High School,1391,N/A,-1,0
+685,Classy Ladies / Logan High School,1390,N/A,-1,0
+686,Classic Connection / DeKalb High School,1389,N/A,-1,0
+687,Illusion / Atlee High School,1389,Just For Show / Midlothian High School,1600,0
+688,Wave of Distinction / North Side High School,1388,N/A,-1,0
+689,New Direction / Hoopeston Area High School,1388,N/A,-1,0
+690,Battalion / Battle High School,1388,The Ambassadors / Omaha South High School,1563,0
+691,Ambience / Lincoln Southwest High School,1388,N/A,-1,0
+692,Sophisticats / Nitro High School,1386,Vocal Intensity / Robert C. Byrd High School,1388,0
+693,Patriot Pride / Midland Trail Middle/High School,1386,N/A,-1,0
+694,AristoCats / Tullahoma High School,1385,N/A,-1,0
+695,Fire and Ice / Washburn High School,1385,N/A,-1,0
+696,High Heeled Harmony / Naperville North High School,1385,N/A,-1,0
+697,Sensations / Watseka Community High School,1385,N/A,-1,0
+698,Center Stage / Adair-Casey/Guthrie Center High School,1384,N/A,-1,0
+699,Show Stoppers / Stanton High School,1384,N/A,-1,0
+700,Emerald Evolution / Wilber-Clatonia Jr/Sr High School,1384,N/A,-1,0
+701,Just Treble / Jay County High School,1383,N/A,-1,0
+702,Viking Voices / AHSTW Community School,1383,N/A,-1,0
+703,Vocal Elegance / Anderson High School,1382,N/A,-1,0
+704,Reflection / Northwest Rankin High School,1382,N/A,-1,0
+705,Warrior Express / Westside High School,1381,N/A,-1,0
+706,Radiance / Powhatan High School,1381,N/A,-1,0
+707,Choraliers / Edgewood High School,1381,N/A,-1,0
+708,Salem Singsations / West Salem High School,1381,N/A,-1,0
+709,Velocity / Norfolk Senior High School,1380,N/A,-1,0
+710,Amplify / Omaha South High School,1380,N/A,-1,0
+711,Cardinal Singers / Chadron High School,1380,N/A,-1,0
+712,Sound Waves / South Side High School,1379,N/A,-1,0
+713,Scarlet & Blue / Council Bluffs Lincoln High School,1379,N/A,-1,0
+714,Spotlighters / Mooresville High School,1378,N/A,-1,0
+715,Touch of Swing / Manchester High School,1377,N/A,-1,0
+716,Indian Rhythm / Milan High School,1377,N/A,-1,0
+717,Eclipse / Regis Middle School,1376,N/A,-1,0
+718,Energizers / Elgin High School,1376,N/A,-1,0
+719,Rhythm and Motion / Ross High School,1376,N/A,-1,0
+720,Vocal Fusion / Nevada High School,1376,N/A,-1,0
+721,Viva di Voce / Timberview High School,1375,N/A,-1,0
+722,Momentum / Medford Area Senior High School,1374,N/A,-1,0
+723,Sound Surge / Biloxi High School,1374,N/A,-1,0
+724,Singers Unlimited / Anderson High School,1374,N/A,-1,0
+725,Encore / St. Joseph Central High School,1374,N/A,-1,0
+726,Titan Express / Papillion-La Vista South High School,1373,N/A,-1,0
+727,From Start to Finish / Andover High School,1373,Capital Swing / Manchester High School,1683,0
+728,21st Century Singers / Bayard Secondary School,1373,N/A,-1,0
+729,Classic Blend / Blue Valley High School,1373,N/A,-1,0
+730,Bella Voce / Grand Island Northwest High School,1373,N/A,-1,0
+731,(m)pulse / Menchville High School,1372,N/A,-1,0
+732,Class Act / Herscher High School,1371,N/A,-1,0
+733,Impressions / Bartlett High School,1371,N/A,-1,0
+734,Natural Selection / Sioux Falls Washington High School,1371,N/A,-1,0
+735,Upstage Revolution / Hastings High School,1371,N/A,-1,0
+736,Encore! / Muscatine High School,1370,N/A,-1,0
+737,Silver Dimension / Monona Grove High School,1370,N/A,-1,0
+738,Jack Attack / Drummond High School,1370,N/A,-1,0
+739,New Score Singers / Smith-Cotton High School,1369,N/A,-1,0
+740,Audacity / Bridgeport Jr/Sr High School,1369,N/A,-1,0
+741,Emotion / New Prague High School,1368,N/A,-1,0
+742,Spartan Genesis / Bixby High School,1368,N/A,-1,0
+743,Orange Sensations / Wayne County High School,1367,N/A,-1,0
+744,Encore / Colonial Forge High School,1367,N/A,-1,0
+745,Christopher Jive and the Uptown 45 / West Branch High School,1367,Noteables / Kewaskum High School,1500,0
+746,Vocal Velocity / Peoria Area Performing Arts Studio,1366,N/A,-1,0
+747,Harmony! / Hebron High School,1366,N/A,-1,0
+748,Connection / Warren Central High School,1366,N/A,-1,0
+749,Protégé / Cedar Rapids Kennedy High School,1365,N/A,-1,0
+750,Ovation / Blair High School,1364,N/A,-1,0
+751,Legacy / Lawrence North High School,1364,Goldenaires / Decatur Central High School,1288,0
+752,Sugar & Spice / Neosho High School,1363,N/A,-1,0
+753,Glamour / Glenwood Community High School,1363,N/A,-1,0
+754,Momentum / Dallas Center-Grimes High School,1363,N/A,-1,0
+755,Unleashed / Sergeant Bluff-Luton High School,1363,N/A,-1,0
+756,Select Sound / Carroll High School,1363,N/A,-1,0
+757,Charisma / Lebanon High School,1363,N/A,-1,0
+758,Phoenix / Jasper High School,1363,N/A,-1,0
+759,Applause / Appling County High School,1363,N/A,-1,0
+760,JIVE / Bloomington Jefferson High School,1362,N/A,-1,0
+761,Patriot Edition / Jay County High School,1362,N/A,-1,0
+762,Silver Elite / Legacy High School,1361,N/A,-1,0
+763,Synergy / Hamilton High School,1361,Northernaires / Eau Claire North High School,1485,0
+764,Spontaneous Combustion / Mediapolis High School,1360,N/A,-1,0
+765,Cinematics / Washington High School,1360,N/A,-1,0
+766,Harmonix / Hickman High School,1360,N/A,-1,0
+767,Revelation / Dallas Center-Grimes High School,1360,N/A,-1,0
+768,Adrenaline / Atchison High School,1359,Uncaged On Stage / Hastings High School,1438,0
+769,Illumination / Grand Island Central Catholic Middle/High School,1359,N/A,-1,0
+770,First Class / Lincoln Northwest High School,1359,N/A,-1,0
+771,CenterStage / LaSalle-St. Joseph Middle School,1359,N/A,-1,0
+772,Sound Sensations / South Sioux City High School,1358,N/A,-1,0
+773,Allegro / Skutt Catholic High School,1358,N/A,-1,0
+774,Rush / Raymore-Peculiar Senior High School,1358,N/A,-1,0
+775,Future Image / Grand Island Senior High School,1357,N/A,-1,0
+776,Revelry / Sioux Falls Jefferson High School,1356,N/A,-1,0
+777,St. C Singers / St. Clairsville High School,1356,General Admission / Winfield High School,1616,2
+778,Illuminations / Oakdale High School,1356,N/A,-1,0
+779,Harmony / Hampshire High School,1356,N/A,-1,0
+780,Nexus / Homewood High School,1355,N/A,-1,0
+781,Cliff Notes / Midlothian Heritage High School,1355,N/A,-1,0
+782,Elite / Homestead High School,1355,N/A,-1,0
+783,Sophisticated Ladies / Edgewood High School,1354,N/A,-1,0
+784,The Allure / Northwest Rankin High School,1354,N/A,-1,0
+785,Electrify / Somerset Berkley Regional High School,1353,N/A,-1,0
+786,Phenomenon / Neosho High School,1353,N/A,-1,0
+787,New Group / Belmond-Klemme Jr/Sr High School,1353,N/A,-1,0
+788,Main Street / La Cueva High School,1352,N/A,-1,0
+789,Continuum / Homewood High School,1352,N/A,-1,0
+790,J City Riot / Jefferson City High School,1351,N/A,-1,0
+791,South High Street Singers / Fort Atkinson High School,1351,Center Stage / Preble High School,1407,0
+792,Voices 'N Harmony / Lincoln Northeast High School,1351,Encore / Waverly High School,1405,1
+793,East Side Swingers / Bloomington Kennedy High School,1350,N/A,-1,0
+794,Sound / Oxford High School,1348,N/A,-1,0
+795,Showstoppers / Laurel High School,1348,N/A,-1,0
+796,Ninth Street Singers / Carrollton High School,1348,N/A,-1,0
+797,Prominent Rendition / Teays Valley High School,1348,General Admission / Winfield High School,1678,0
+798,Ovations / Opelika High School,1348,N/A,-1,0
+799,Vocal Chords / Danville High School,1347,N/A,-1,0
+800,The Associate / Homewood High School,1346,N/A,-1,0
+801,New Sound / Sioux City East High School,1346,N/A,-1,0
+802,The Doods / Grand Island Northwest High School,1346,N/A,-1,0
+803,Impact / Sheldon High School,1346,N/A,-1,0
+804,Prism / Warrensburg High School,1345,N/A,-1,0
+805,Forefront / Harrisonville High School,1345,N/A,-1,0
+806,High Impact / Herbert Hoover High School,1345,N/A,-1,0
+807,Vibrations / Keokuk High School,1345,N/A,-1,0
+808,Unlimited / Underwood High School,1344,N/A,-1,0
+809,Singers / Lebanon High School,1344,N/A,-1,0
+810,West Connection / Davenport West High School,1344,N/A,-1,0
+811,Singing Ambassadors / Denison High School,1343,N/A,-1,0
+812,Drifters / Chesterton High School,1343,N/A,-1,0
+813,Company / Lewis Central High School,1342,N/A,-1,0
+814,Soundscape / Fremd High School,1340,N/A,-1,0
+815,Pizzaz / Purvis High School,1339,N/A,-1,0
+816,DeFortes / DeForest Area High School,1338,N/A,-1,0
+817,Harmonizers / Benson High School,1338,N/A,-1,0
+818,Special Request / Aberdeen Central High School,1338,N/A,-1,0
+819,Storm / Liberty High School,1338,N/A,-1,0
+820,Lake Effect / Ashland High School,1337,N/A,-1,0
+821,Brave Generation / Bellmont High School,1337,N/A,-1,0
+822,Rebel Rhapsody / Roncalli High School,1336,N/A,-1,0
+823,Kaleidoscope / Musselman High School,1336,N/A,-1,0
+824,The Renegades / Standing Bear High School,1336,N/A,-1,0
+825,Vocal Impact / Licking Valley High School,1335,N/A,-1,0
+826,Harmony In Motion / Wapakoneta High School,1333,N/A,-1,0
+827,Singers / Sullivan High School,1333,N/A,-1,0
+828,Out Of The Blue / Plattsmouth High School,1333,N/A,-1,0
+829,Focal Point / Prairie High School,1332,N/A,-1,0
+830,Esprit / Southwestern Jr/Sr High School,1332,N/A,-1,0
+831,Magic / Manteno High School,1332,N/A,-1,0
+832,Sensations / Springfield Southeast High School,1332,N/A,-1,0
+833,Great Expectations / O'Fallon Township High School,1332,N/A,-1,0
+834,Legacy / Wheeling High School,1332,N/A,-1,0
+835,Entertainers / Grafton High School,1332,N/A,-1,0
+836,Warrior Ambition / Woodlan Jr/Sr High School,1331,N/A,-1,0
+837,Innovations / Petal High School,1330,N/A,-1,0
+838,Sapphire and Gold / Kearney High School,1330,N/A,-1,0
+839,Commotion / Oswego High School,1330,N/A,-1,0
+840,Crown Point Majestics / Omaha Northwest High School,1329,N/A,-1,0
+841,Momentum / Lincoln High School,1329,Encore / Waverly High School,1405,0
+842,the Collective / Anderson Prep Academy,1328,N/A,-1,0
+843,Vocal Gold / Southeast Polk High School,1327,N/A,-1,0
+844,Uncaged On Stage / Hastings High School,1326,N/A,-1,0
+845,Noteables / Kewaskum High School,1325,N/A,-1,0
+846,Vocal Intensity / Robert C. Byrd High School,1325,Soaring Sensations / Urbana High School,1500,0
+847,Sixteenth Street Singers / Denison High School,1325,N/A,-1,0
+848,EagleRock! / Keota High School,1325,N/A,-1,0
+849,She-Notes / Olentangy High School,1325,N/A,-1,0
+850,Stage One / Millard South High School,1324,N/A,-1,0
+851,Celebration / Cedar Rapids Washington High School,1322,N/A,-1,0
+852,Hi-Style / Linn-Mar High School,1322,N/A,-1,0
+853,New Dimension / Kimball Jr/Sr High School,1322,N/A,-1,0
+854,Corporation / Lewis Central High School,1321,N/A,-1,0
+855,Flight / Spring Mills High School,1321,N/A,-1,0
+856,Sound Elegance / Platte County High School,1321,N/A,-1,0
+857,Dukes and Duchesses / York High School,1321,Encore / Waverly High School,1405,0
+858,Singsation / Wapakoneta High School,1321,N/A,-1,0
+859,Hilltop Harmony / Pleasant Hill High School,1320,N/A,-1,0
+860,Jive / Bloomington Jefferson High School,1319,N/A,-1,0
+861,Soaring Sensations / Urbana High School,1319,N/A,-1,0
+862,Vocal Elegance / Hamilton High School,1319,N/A,-1,0
+863,Vocal Motion / Wawasee High School,1319,N/A,-1,0
+864,New Era / Churubusco Jr/Sr High School,1318,Northern Lights / Northridge High School,1335,0
+865,First Edition / Hudson High School,1318,N/A,-1,0
+866,Synergy / Shelbyville High School,1317,N/A,-1,0
+867,Patriot Singers / East Newton High School,1317,N/A,-1,0
+868,City Heat / Columbia City High School,1317,Innovation / New Prairie High School,1347,0
+869,Sound Wave / Twin Lakes High School,1316,N/A,-1,0
+870,High Definition / Tallmadge High School,1316,N/A,-1,0
+871,Harmony / Gering High School,1315,N/A,-1,0
+872,Showstoppers / Norfolk Senior High School,1315,N/A,-1,0
+873,Testostertones / Totino-Grace High School,1314,N/A,-1,0
+874,Starliters / Anderson High School,1314,N/A,-1,0
+875,Salt Co. / Des Moines Christian School,1314,N/A,-1,0
+876,Rendezvous / Preble High School,1314,N/A,-1,0
+877,Old Abe Show Choir / Memorial High School,1313,N/A,-1,0
+878,Center Stage / Preble High School,1312,N/A,-1,0
+879,North Stars / Columbus North High School,1312,N/A,-1,0
+880,Spectrum / Maryville High School,1312,N/A,-1,0
+881,Treble Effects / Nevada High School,1311,N/A,-1,0
+882,The Coalition / Colby High School,1310,N/A,-1,0
+883,Legacy / Sumrall High School,1309,N/A,-1,0
+884,La Voce Ballo / Bemidji High School,1309,N/A,-1,0
+885,Singers / Seward High School,1307,N/A,-1,0
+886,Singers Xtreme / Marion Harding High School,1306,N/A,-1,0
+887,Capital Harmony / Sioux Falls Roosevelt High School,1305,N/A,-1,0
+888,Purple Pizzazz / Middletown High School,1305,N/A,-1,0
+889,Blue Vibrations / Davenport Central High School,1304,N/A,-1,0
+890,Off-Center Stage / Logan-Magnolia Jr/Sr High School,1304,N/A,-1,0
+891,Swingsations / Carroll High School,1303,N/A,-1,0
+892,Nova / Alan B. Shepard High School,1303,N/A,-1,0
+893,Limited Edition / Mayfield High School,1302,N/A,-1,0
+894,Crimson & Black / Fort Madison High School,1302,N/A,-1,0
+895,Pandemonious / Bay Port High School,1301,N/A,-1,0
+896,Noteables / Pekin Community High School,1300,N/A,-1,0
+897,Illusions / Huntington High School,1300,N/A,-1,0
+898,Elite / Boaz High School,1299,N/A,-1,0
+899,Hi Fidelity / El Paso-Gridley High School,1299,N/A,-1,0
+900,SouthSide Sensation / South St. Paul Secondary,1297,N/A,-1,0
+901,Pizazz / Parkview High School,1297,N/A,-1,0
+902,Karisma Singers / Kokomo High School,1297,N/A,-1,0
+903,Prismatic Sensations / Groton High School,1297,N/A,-1,0
+904,Unlimited / Paxton-Buckley-Loda High School,1296,N/A,-1,0
+905,Octave Above / Milton High School,1296,N/A,-1,0
+906,B*JAZZled / Burlington High School,1296,N/A,-1,0
+907,Take II / Bellevue East High School,1296,N/A,-1,0
+908,Visual Volume / Poca High School,1294,N/A,-1,0
+909,Singsations / West Salem High School,1294,N/A,-1,0
+910,Southside Sensation / South St. Paul Secondary,1293,N/A,-1,0
+911,New Edition / Edgewood High School,1293,N/A,-1,0
+912,Nexus / North Polk High School,1292,N/A,-1,0
+913,Momentum / Plymouth High School,1290,N/A,-1,0
+914,Rhapsody / Aurora High School,1290,N/A,-1,0
+915,Golden Blues / Lexington High School,1289,N/A,-1,0
+916,The Association / Van Buren High School,1289,N/A,-1,0
+917,Act II / Neenah High School,1289,N/A,-1,0
+918,Dimensions / Austin High School,1286,N/A,-1,0
+919,Encore / Waverly High School,1286,N/A,-1,0
+920,Vivace / West Salem High School,1285,N/A,-1,0
+921,Saintsations / St. Thomas Aquinas High School,1285,N/A,-1,0
+922,Sound Attraction / Williamsburg Jr/Sr High School,1284,N/A,-1,0
+923,A New Vision / East Noble High School,1284,N/A,-1,0
+924,Knight Vision / Crestview High School,1283,N/A,-1,0
+925,Innergy / Pisgah Jr/Sr High School,1282,N/A,-1,0
+926,Varsity Singers / Ada High School,1282,Visual Volume / Poca High School,1397,0
+927,Vocal Motion / Lakeland High School,1281,N/A,-1,0
+928,Sapphire and Ice / Plattsmouth High School,1281,N/A,-1,0
+929,Explosion! / Omaha North High School,1280,N/A,-1,0
+930,Cavaliers / Crete-Monee High School,1279,N/A,-1,0
+931,Rhythm In Red / Cabell Midland High School,1276,N/A,-1,0
+932,Ovation / Cedar Rapids Jefferson High School,1275,N/A,-1,0
+933,Center Stage / Columbus East High School,1275,N/A,-1,0
+934,Show Choir / Boyden-Hull High School,1275,N/A,-1,0
+935,Soundwaves / Hinton Community School,1273,N/A,-1,0
+936,Powerhouse / Pleasant Hill High School,1269,N/A,-1,0
+937,RUSH / Ralston High School,1268,N/A,-1,0
+938,Melodic Fusion / Riverside High School,1268,N/A,-1,0
+939,Music Company / River Valley High School,1268,N/A,-1,0
+940,Swingsingers / Batavia High School,1267,N/A,-1,0
+941,Northern Lights / Northridge High School,1266,N/A,-1,0
+942,Lights Cameron, Action! / Cameron High School,1266,N/A,-1,0
+943,Jefferson Edition / Council Bluffs Jefferson High School,1265,N/A,-1,0
+944,Encore / Garrett High School,1264,Nova / Alan B. Shepard High School,1373,0
+945,Bravo / Pella High School,1264,N/A,-1,0
+946,Guys and Dolls / Brodhead High School,1263,N/A,-1,0
+947,Legacy / MFL MarMac High School,1263,N/A,-1,0
+948,Scarlet Singers / Des Moines East High School,1263,N/A,-1,0
+949,Chi-Hi Harmonics / Chippewa Falls High School,1259,N/A,-1,0
+950,MoShow / Missouri Valley High School,1258,N/A,-1,0
+951,CENTRifugAL Force / Central Lee High School,1258,N/A,-1,0
+952,Sensations / Sumner-Fredericksburg High School,1258,Swingsations / Carroll High School,1444,0
+953,Knight Rhythms / East Noble High School,1257,N/A,-1,0
+954,Goldenaires / Decatur Central High School,1256,N/A,-1,0
+955,Surround Sound / Bryan High School,1253,N/A,-1,0
+956,Summit Street Singers / Center Point-Urbana High School,1252,N/A,-1,0
+957,Titan Tempo / Tuscarora High School,1249,N/A,-1,0
+958,Lincoln Volume / Council Bluffs Lincoln High School,1247,N/A,-1,0
+959,The Silhouettes / Norwood High School,1246,N/A,-1,0
+960,State Street Singers / Waseca High School,1245,N/A,-1,0
+961,Jubilation Inc. / Benton Community High School,1245,N/A,-1,0
+962,IN Session / Springfield High School,1244,N/A,-1,0
+963,Innovation / New Prairie High School,1243,N/A,-1,0
+964,Magnifique / Bishop Heelan Catholic School,1241,N/A,-1,0
+965,Glamorous Edition / Teays Valley High School,1241,N/A,-1,0
+966,Top Twenty / Kenton High School,1239,N/A,-1,0
+967,Jet Setters / Alliance High School,1239,N/A,-1,0
+968,Jazzettes / Indian Creek High School,1235,N/A,-1,0
+969,Cardinal Singers / Mayville High School,1235,N/A,-1,0
+970,Touch of Class / Sissonville High School,1230,N/A,-1,0
+971,Locomotion / Altoona High School,1228,N/A,-1,0
+972,Rhapsody in Red / Green Bay East High School,1225,N/A,-1,0
+973,Minstrels / Bishop Luers High School,1221,N/A,-1,0
+974,Southside Transit / Marshalltown High School,1219,N/A,-1,0
+975,Rhythm in Red / Vermillion High School,1208,N/A,-1,0
+976,Rhapsody n' Rhythm / McDonald County High School,1207,N/A,-1,0
+977,Vocal Dynamics / Clear Creek Amana High School,1205,N/A,-1,0
+978,Chorale / South Charleston High School,1203,N/A,-1,0
+979,Vocal Locomotion / Van Meter Jr/Sr High School,1198,N/A,-1,0
+980,Cloud 9 / Clayton Ridge High School,1198,N/A,-1,0
+981,Breaking Cylence / Harlan Community High School,1195,N/A,-1,0
+982,Sadie Street Singers / Anamosa High School,1191,N/A,-1,0
+983,Northern Stars / Sheridan High School,1185,N/A,-1,0
+984,Mustang Express / Strongsville High School,1183,N/A,-1,0
+985,Voices Unlimited / West Liberty High School,1163,N/A,-1,0
